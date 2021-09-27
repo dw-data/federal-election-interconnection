@@ -6,14 +6,9 @@ _Research, data analysis and data visualization:_  [Michel Penke](https://michel
 _Writing:_  [Michel Penke](https://michelpenke.de)
 
 **Read the full articles on DW.com:**
-- [XXX](https://www.dw.com/en/xxx)
-- [XXX](https://www.dw.com/en/xxx)
-- [XXX](https://www.dw.com/en/xxx)
-- [XXX](https://www.dw.com/en/xxx)
-- [XXX](https://www.dw.com/en/xxx)
-- [XXX](https://www.dw.com/en/xxx)
-- [XXX](https://www.dw.com/en/xxx)
-- [XXX](https://www.dw.com/en/xxx)
+- [Em 5 gráficos: a relação comercial entre Brasil e Alemanha](https://www.dw.com/pt-br/em-5-gráficos-a-relação-comercial-entre-brasil-e-alemanha/a-58909102)
+- [Relacje polsko-niemieckie na koniec rządów Angeli Merkel](https://www.dw.com/pl/relacje-polsko-niemieckie-na-koniec-rządów-angeli-merkel/a-59127843)
+- [Hubungan Indonesia-Jerman: Tidak Ada Konflik Serius, Perdagangan Masih Bisa Ditingkatkan](https://www.dw.com/id/hubungan-bilateral-indonesia-jerman/a-58979889)
 
 To mark the federal election in Germany in September 2021, we looked at the economic interdependence between Germany and eight different countries (China, Brazil, Poland, Russia, Indonesia, India, Iran and Pakistan). Special attention was given to direct investment, trade balance, traded goods, language, student exchange and tourism. 
 
